@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952462237457",
+    "project_id": "loginzoo-6e1ec",
+    "storage_bucket": "loginzoo-6e1ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952462237457:android:c35e9369dbc7d9427176b0",
+        "android_client_info": {
+          "package_name": "com.example.app_zoologico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcsFHyD8F50nmt9tXMBsFPFUvh1JWuif4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
